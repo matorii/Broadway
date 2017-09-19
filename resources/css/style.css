@@ -3,7 +3,7 @@ body {
   font-family: Helvetica;
 }
 
-#id {
+#title {
   font-size: 70px;
   font-weight: bold;
   color: white;
@@ -12,6 +12,7 @@ body {
 nav {
   font-size: 18px;
   color: white;
+  font-weight: bold;
 }
 
 .content h2 {
@@ -31,5 +32,10 @@ h3 {
 }
 
 #middlebar {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
+.header {
   background-image: url("../images/the-flatiron-building.png");
 }
