@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+#id {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+nav {
+  font-size: 18px;
+  color: white;
+}
+
+.content h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
