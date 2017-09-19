@@ -9,7 +9,7 @@ body {
   color: white;
 }
 
-nav {
+ a {
   font-size: 18px;
   color: white;
   font-weight: bold;
@@ -29,6 +29,7 @@ h3 {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
 }
 
 #middlebar {
