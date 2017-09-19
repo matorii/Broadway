@@ -32,6 +32,10 @@ h3 {
   text-align: left;
 }
 
+#copyright a {
+  font-size: 11px;
+}
+
 #middlebar {
   background-image: url("../images/the-flatiron-building.png");
   color: white;
