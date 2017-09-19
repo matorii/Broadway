@@ -23,3 +23,13 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+
+#copyright {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+#middlebar {
+  background-image: url("../images/the-flatiron-building.png");
+}
